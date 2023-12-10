@@ -1,0 +1,2970 @@
+{
+    "events": [
+        {
+            "type": "ncaa_hockey",
+            "id": 6160291,
+            "datetime_utc": "2023-12-09T08:30:00",
+            "venue": {
+                "state": "CT",
+                "name_v2": "M&T Bank Arena",
+                "postal_code": "06518",
+                "name": "M&T Bank Arena",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/m-t-bank-arena/tickets",
+                "score": 0.48,
+                "location": {
+                    "lat": 41.4156,
+                    "lon": -72.9111
+                },
+                "address": "305 Sherman Ave.",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 8,
+                "city": "Hamden",
+                "slug": "m-t-bank-arena",
+                "extended_address": "Hamden, CT 06518",
+                "id": 4186,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 533,
+                "capacity": 3570,
+                "display_location": "Hamden, CT"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_hockey",
+                    "name": "Quinnipiac Bobcats Mens Hockey",
+                    "image": "https://seatgeek.com/images/performers-landscape/quinnipiac-bobcats-mens-hockey-1-17275f/9836/huge.jpg",
+                    "id": 9836,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/quinnipiac-bobcats-mens-hockey-1-17275f/9836/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 15
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "hockey"
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-hockey"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/quinnipiac-bobcats-mens-hockey-1-tickets",
+                    "score": 0.5,
+                    "slug": "quinnipiac-bobcats-mens-hockey-1",
+                    "home_venue_id": 4186,
+                    "short_name": "Quinnipiac Bobcats Mens Hockey",
+                    "num_upcoming_events": 15,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 41.4156,
+                        "lon": -72.9111
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_hockey",
+                    "name": "LIU Sharks Mens Hockey",
+                    "image": "https://seatgeek.com/images/performers-landscape/liu-sharks-mens-hockey-1-f03214/776900/huge.jpg",
+                    "id": 776900,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/liu-sharks-mens-hockey-1-f03214/776900/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "hockey"
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-hockey"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/liu-sharks-mens-hockey-1-tickets",
+                    "score": 0.37,
+                    "slug": "liu-sharks-mens-hockey-1",
+                    "home_venue_id": null,
+                    "short_name": "LIU Sharks Mens Hockey",
+                    "num_upcoming_events": 5,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "LIU Sharks at Quinnipiac Bobcats Mens Hockey",
+            "visible_until_utc": "2023-12-10T05:00:00",
+            "stats": {
+                "listing_count": 4,
+                "average_price": 36,
+                "lowest_price_good_deals": null,
+                "lowest_price": 23,
+                "highest_price": 90,
+                "visible_listing_count": 4,
+                "dq_bucket_counts": null,
+                "median_price": 27,
+                "lowest_sg_base_price": 12,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1040000,
+                    "name": "hockey",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "hockey"
+                },
+                {
+                    "id": 1040200,
+                    "name": "ncaa_hockey",
+                    "parent_id": 1040000,
+                    "rank": 0,
+                    "seo_event_type": "ncaa-hockey"
+                }
+            ],
+            "url": "https://seatgeek.com/quinnipiac-bobcats-mens-hockey-1-tickets/ncaa-hockey/2023-12-09-3-30-am/6160291",
+            "score": 0.299,
+            "announce_date": "2023-08-30T00:00:00",
+            "created_at": "2023-08-30T15:10:57",
+            "date_tbd": false,
+            "title": "LIU Sharks at Quinnipiac Bobcats Mens Hockey",
+            "popularity": 0.707,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "womens_college_volleyball",
+            "id": 6299353,
+            "datetime_utc": "2023-12-09T08:30:00",
+            "venue": {
+                "state": "PA",
+                "name_v2": "Petersen Events Center",
+                "postal_code": "15261",
+                "name": "Petersen Events Center",
+                "links": [],
+                "timezone": "America/New_York",
+                "url": "https://seatgeek.com/venues/petersen-events-center/tickets",
+                "score": 0.7,
+                "location": {
+                    "lat": 40.4432,
+                    "lon": -79.9616
+                },
+                "address": "3719 Terrace Street",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 30,
+                "city": "Pittsburgh",
+                "slug": "petersen-events-center",
+                "extended_address": "Pittsburgh, PA 15261",
+                "id": 1658,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 508,
+                "capacity": 12508,
+                "display_location": "Pittsburgh, PA"
+            },
+            "datetime_tbd": true,
+            "performers": [
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "NCAA Womens Volleyball Championship",
+                    "image": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg",
+                    "id": 13005,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 6
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/ncaa-womens-volleyball-championship-tickets",
+                    "score": 0.6,
+                    "slug": "ncaa-womens-volleyball-championship",
+                    "home_venue_id": null,
+                    "short_name": "NCAA Womens Volleyball Championship",
+                    "num_upcoming_events": 6,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Louisville Cardinals Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/louisville-cardinals-womens-volleyball-0c6ff7/28652/huge.jpg",
+                    "id": 28652,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/louisville-cardinals-womens-volleyball-0c6ff7/28652/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": false,
+                    "stats": {
+                        "event_count": 0
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/louisville-cardinals-womens-volleyball-tickets",
+                    "score": 0.5,
+                    "slug": "louisville-cardinals-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Louisville Womens VB",
+                    "num_upcoming_events": 0,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Pittsburgh Panthers Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/pittsburgh-panthers-womens-volleyball-2b5084/342199/huge.jpg",
+                    "id": 342199,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/pittsburgh-panthers-womens-volleyball-2b5084/342199/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": false,
+                    "stats": {
+                        "event_count": 0
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/pittsburgh-panthers-womens-volleyball-tickets",
+                    "score": 0.49,
+                    "slug": "pittsburgh-panthers-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Pittsburgh Womens VB",
+                    "num_upcoming_events": 0,
+                    "colors": {
+                        "all": [
+                            "#003594",
+                            "#FFB81C",
+                            "#003594"
+                        ],
+                        "iconic": "#003594",
+                        "primary": [
+                            "#003594",
+                            "#FFB81C"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "NCAA Womens Volleyball Tournament Pittsburgh Regional - Finals (#1 Pittsburgh vs #2 Louisville)",
+            "visible_until_utc": "2023-12-10T05:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1170000,
+                    "name": "volleyball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "volleyball"
+                },
+                {
+                    "id": 1170100,
+                    "name": "college_volleyball",
+                    "parent_id": 1170000,
+                    "rank": 0,
+                    "seo_event_type": "college-volleyball"
+                },
+                {
+                    "id": 1170101,
+                    "name": "womens_college_volleyball",
+                    "parent_id": 1170100,
+                    "rank": 0,
+                    "seo_event_type": "womens-college-volleyball"
+                }
+            ],
+            "url": "https://seatgeek.com/ncaa-womens-volleyball-championship-tickets/womens-college-volleyball/2023-12-09-3-30-am/6299353",
+            "score": 0.39,
+            "announce_date": "2023-12-03T00:00:00",
+            "created_at": "2023-12-03T23:28:40",
+            "date_tbd": true,
+            "title": "NCAA Womens Volleyball Tournament Pittsburgh Regional - Finals (#1 Pittsburgh vs #2 Louisville)",
+            "popularity": 0.746,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_basketball",
+            "id": 6066643,
+            "datetime_utc": "2023-12-09T08:30:00",
+            "venue": {
+                "state": "ON",
+                "name_v2": "Coca-Cola Coliseum",
+                "postal_code": "M6K 3C3",
+                "name": "Coca-Cola Coliseum",
+                "links": [],
+                "timezone": "America/Toronto",
+                "url": "https://seatgeek.com/venues/coca-cola-coliseum-2/tickets",
+                "score": 0.63,
+                "location": {
+                    "lat": 43.6356,
+                    "lon": -79.415
+                },
+                "address": "100 Princes Blvd.",
+                "country": "Canada",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 29,
+                "city": "Toronto",
+                "slug": "coca-cola-coliseum-2",
+                "extended_address": "Toronto, Canada",
+                "id": 3110,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 0,
+                "capacity": 0,
+                "display_location": "Toronto, Canada"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Hall of Fame Series",
+                    "image": "https://seatgeek.com/images/performers-landscape/hall-of-fame-series-095973/803928/huge.jpg",
+                    "id": 803928,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/hall-of-fame-series-095973/803928/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/hall-of-fame-series-tickets",
+                    "score": 0.6,
+                    "slug": "hall-of-fame-series",
+                    "home_venue_id": 161601,
+                    "short_name": "Hall of Fame Series",
+                    "num_upcoming_events": 3,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.1029,
+                        "lon": -115.178
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Purdue Boilermakers Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/purdue-boilermakers-mens-basketball-b1a442/4062/huge.jpg",
+                    "id": 4062,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/purdue-boilermakers-mens-basketball-b1a442/4062/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "Big Ten",
+                            "display_name": "Big Ten",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "big-ten"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 21
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "Client Provided - 2023",
+                    "url": "https://seatgeek.com/purdue-boilermakers-mens-basketball-tickets",
+                    "score": 0.68,
+                    "slug": "purdue-boilermakers-mens-basketball",
+                    "home_venue_id": 3486,
+                    "short_name": "Purdue",
+                    "num_upcoming_events": 21,
+                    "colors": {
+                        "all": [
+                            "#1E1B1A",
+                            "#D2BC86",
+                            "#1E1B1A"
+                        ],
+                        "iconic": "#D2BC86",
+                        "primary": [
+                            "#1E1B1A",
+                            "#D2BC86"
+                        ]
+                    },
+                    "image_license": "Client Provided - 2023",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 40.4259,
+                        "lon": -86.9081
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Alabama Crimson Tide Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/alabama-crimson-tide-mens-basketball-047062/4085/huge.jpg",
+                    "id": 4085,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/alabama-crimson-tide-mens-basketball-047062/4085/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "SEC",
+                            "display_name": "Southeastern",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "sec"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 24
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "Client Provided - 2023",
+                    "url": "https://seatgeek.com/alabama-crimson-tide-mens-basketball-tickets",
+                    "score": 0.62,
+                    "slug": "alabama-crimson-tide-mens-basketball",
+                    "home_venue_id": 3444,
+                    "short_name": "Alabama",
+                    "num_upcoming_events": 24,
+                    "colors": {
+                        "all": [
+                            "#B30838",
+                            "#CFD4D8",
+                            "#B30838"
+                        ],
+                        "iconic": "#B30838",
+                        "primary": [
+                            "#B30838",
+                            "#CFD4D8"
+                        ]
+                    },
+                    "image_license": "Client Provided - 2023",
+                    "popularity": 0,
+                    "location": {
+                        "lat": 33.2027,
+                        "lon": -87.5397
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "TCU Horned Frogs Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/tcu-horned-frogs-mens-basketball-1-8c360c/6511/huge.jpg",
+                    "id": 6511,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/tcu-horned-frogs-mens-basketball-1-8c360c/6511/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "Big 12",
+                            "display_name": "Big 12",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "big-12"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 23
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "Client Provided - 2023",
+                    "url": "https://seatgeek.com/tcu-horned-frogs-mens-basketball-1-tickets",
+                    "score": 0.6,
+                    "slug": "tcu-horned-frogs-mens-basketball-1",
+                    "home_venue_id": 4245,
+                    "short_name": "TCU",
+                    "num_upcoming_events": 23,
+                    "colors": {
+                        "all": [
+                            "#4D1979",
+                            "#A3A9AC",
+                            "#4D1979"
+                        ],
+                        "iconic": "#4D1979",
+                        "primary": [
+                            "#4D1979",
+                            "#A3A9AC"
+                        ]
+                    },
+                    "image_license": "Client Provided - 2023",
+                    "popularity": 0,
+                    "location": {
+                        "lat": 32.7093,
+                        "lon": -97.3652
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Clemson Tigers Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/clemson-tigers-mens-basketball-66d25e/4001/huge.jpg",
+                    "id": 4001,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/clemson-tigers-mens-basketball-66d25e/4001/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "ACC",
+                            "display_name": "Atlantic Coast",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "acc"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 22
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "https://upload.wikimedia.org/wikipedia/commons/2/2e/LittlejohnColiseum-from-Inside.jpg",
+                    "url": "https://seatgeek.com/clemson-tigers-mens-basketball-tickets",
+                    "score": 0.56,
+                    "slug": "clemson-tigers-mens-basketball",
+                    "home_venue_id": 3443,
+                    "short_name": "Clemson",
+                    "num_upcoming_events": 22,
+                    "colors": {
+                        "all": [
+                            "#522D80",
+                            "#F56600",
+                            "#522D80"
+                        ],
+                        "iconic": "#F56600",
+                        "primary": [
+                            "#522D80",
+                            "#F56600"
+                        ]
+                    },
+                    "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "popularity": 0,
+                    "location": {
+                        "lat": 34.6804,
+                        "lon": -82.8464
+                    },
+                    "image_rights_message": "[This image](https://upload.wikimedia.org/wikipedia/commons/2/2e/LittlejohnColiseum-from-Inside.jpg) is available through [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/) on Wikimedia and has been modified from the original. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Naismith Hall of Fame Series - Toronto: Purdue vs Alabama & TCU vs Clemson",
+            "visible_until_utc": "2023-12-10T05:00:00",
+            "stats": {
+                "listing_count": 151,
+                "average_price": 169,
+                "lowest_price_good_deals": 52,
+                "lowest_price": 52,
+                "highest_price": 328,
+                "visible_listing_count": 125,
+                "dq_bucket_counts": [
+                    12,
+                    31,
+                    62,
+                    7,
+                    10,
+                    10,
+                    17,
+                    0
+                ],
+                "median_price": 159,
+                "lowest_sg_base_price": 34,
+                "lowest_sg_base_price_good_deals": 34
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1030000,
+                    "name": "basketball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "basketball"
+                },
+                {
+                    "id": 1030200,
+                    "name": "ncaa_basketball",
+                    "parent_id": 1030000,
+                    "rank": 0,
+                    "seo_event_type": "ncaa-basketball"
+                }
+            ],
+            "url": "https://seatgeek.com/hall-of-fame-series-tickets/ncaa-basketball/2023-12-09-3-30-am/6066643",
+            "score": 0.523,
+            "announce_date": "2023-06-21T00:00:00",
+            "created_at": "2023-06-21T19:38:50",
+            "date_tbd": false,
+            "title": "Naismith Hall of Fame Series - Toronto: Purdue vs Alabama & TCU vs Clemson",
+            "popularity": 0.815,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-06-21T19:38:49Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "womens_college_volleyball",
+            "id": 6299338,
+            "datetime_utc": "2023-12-09T09:30:00",
+            "venue": {
+                "state": "NE",
+                "name_v2": "Bob Devaney Sports Center",
+                "postal_code": "68588",
+                "name": "Bob Devaney Sports Center",
+                "links": [],
+                "timezone": "America/Chicago",
+                "url": "https://seatgeek.com/venues/bob-devaney-sports-center/tickets",
+                "score": 0.72,
+                "location": {
+                    "lat": 40.8299,
+                    "lon": -96.6989
+                },
+                "address": "1600 Court St.",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 3,
+                "city": "Lincoln",
+                "slug": "bob-devaney-sports-center",
+                "extended_address": "Lincoln, NE 68588",
+                "id": 3435,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 722,
+                "capacity": 0,
+                "display_location": "Lincoln, NE"
+            },
+            "datetime_tbd": true,
+            "performers": [
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Nebraska Cornhuskers Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/nebraska-cornhuskers-womens-volleyball-cbe086/13005/huge.jpg",
+                    "id": 12958,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/nebraska-cornhuskers-womens-volleyball-cbe086/13005/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/nebraska-cornhuskers-womens-volleyball-tickets",
+                    "score": 0.63,
+                    "slug": "nebraska-cornhuskers-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Nebraska Womens VB",
+                    "num_upcoming_events": 1,
+                    "colors": {
+                        "all": [
+                            "#191919",
+                            "#E41C38",
+                            "#E41C38"
+                        ],
+                        "iconic": "#E41C38",
+                        "primary": [
+                            "#191919",
+                            "#E41C38"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "NCAA Womens Volleyball Championship",
+                    "image": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg",
+                    "id": 13005,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/ncaa-womens-volleyball-championship-tickets",
+                    "score": 0.6,
+                    "slug": "ncaa-womens-volleyball-championship",
+                    "home_venue_id": null,
+                    "short_name": "NCAA Womens Volleyball Championship",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Arkansas Razorbacks Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/arkansas-razorbacks-womens-volleyball-1-3a4917/804015/huge.jpg",
+                    "id": 804015,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/arkansas-razorbacks-womens-volleyball-1-3a4917/804015/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/arkansas-razorbacks-womens-volleyball-1-tickets",
+                    "score": 0.58,
+                    "slug": "arkansas-razorbacks-womens-volleyball-1",
+                    "home_venue_id": null,
+                    "short_name": "Arkansas Womens VB",
+                    "num_upcoming_events": 1,
+                    "colors": {
+                        "all": [
+                            "#000000",
+                            "#9D2235",
+                            "#9D2235"
+                        ],
+                        "iconic": "#9D2235",
+                        "primary": [
+                            "#000000",
+                            "#9D2235"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "NCAA Womens Volleyball Tournament Lincoln Regional - Finals (#1 Nebraska vs #3 Arkansas)",
+            "visible_until_utc": "2023-12-10T06:00:00",
+            "stats": {
+                "listing_count": 13,
+                "average_price": 109,
+                "lowest_price_good_deals": 11,
+                "lowest_price": 11,
+                "highest_price": 244,
+                "visible_listing_count": 11,
+                "dq_bucket_counts": [
+                    3,
+                    3,
+                    2,
+                    2,
+                    0,
+                    4,
+                    1,
+                    0
+                ],
+                "median_price": 91,
+                "lowest_sg_base_price": 3,
+                "lowest_sg_base_price_good_deals": 3
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1170000,
+                    "name": "volleyball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "volleyball"
+                },
+                {
+                    "id": 1170100,
+                    "name": "college_volleyball",
+                    "parent_id": 1170000,
+                    "rank": 0,
+                    "seo_event_type": "college-volleyball"
+                },
+                {
+                    "id": 1170101,
+                    "name": "womens_college_volleyball",
+                    "parent_id": 1170100,
+                    "rank": 0,
+                    "seo_event_type": "womens-college-volleyball"
+                }
+            ],
+            "url": "https://seatgeek.com/nebraska-cornhuskers-womens-volleyball-tickets/womens-college-volleyball/2023-12-09-3-30-am/6299338",
+            "score": 0.775,
+            "announce_date": "2023-12-03T00:00:00",
+            "created_at": "2023-12-03T23:28:35",
+            "date_tbd": true,
+            "title": "NCAA Womens Volleyball Tournament Lincoln Regional - Finals (#1 Nebraska vs #3 Arkansas)",
+            "popularity": 0.919,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_hockey",
+            "id": 6057253,
+            "datetime_utc": "2023-12-09T10:30:00",
+            "venue": {
+                "state": "AZ",
+                "name_v2": "Mullett Arena",
+                "postal_code": "85281",
+                "name": "Mullett Arena",
+                "links": [],
+                "timezone": "America/Phoenix",
+                "url": "https://seatgeek.com/venues/mullett-arena/tickets",
+                "score": 0.75,
+                "location": {
+                    "lat": 33.4254,
+                    "lon": -111.929
+                },
+                "address": "411 S. Packard Dr.",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 53,
+                "city": "Tempe",
+                "slug": "mullett-arena",
+                "extended_address": "Tempe, AZ 85281",
+                "id": 520550,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 753,
+                "capacity": 0,
+                "display_location": "Tempe, AZ"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_hockey",
+                    "name": "Arizona State Sun Devils Mens Hockey",
+                    "image": "https://seatgeek.com/images/performers-landscape/arizona-state-sun-devils-mens-hockey-1-662296/362283/huge.jpg",
+                    "id": 362283,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/arizona-state-sun-devils-mens-hockey-1-662296/362283/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 15
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "hockey"
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-hockey"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/arizona-state-sun-devils-mens-hockey-1-tickets",
+                    "score": 0.44,
+                    "slug": "arizona-state-sun-devils-mens-hockey-1",
+                    "home_venue_id": 520550,
+                    "short_name": "Arizona State Sun Devils Mens Hockey",
+                    "num_upcoming_events": 15,
+                    "colors": {
+                        "all": [
+                            "#8C1D40",
+                            "#FFC627",
+                            "#8C1D40"
+                        ],
+                        "iconic": "#8C1D40",
+                        "primary": [
+                            "#8C1D40",
+                            "#FFC627"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 33.4254,
+                        "lon": -111.929
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_hockey",
+                    "name": "Dartmouth Big Green Mens Hockey",
+                    "image": "https://seatgeek.com/images/performers-landscape/dartmouth-big-green-mens-hockey-1-5923d1/9813/huge.jpg",
+                    "id": 9813,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/dartmouth-big-green-mens-hockey-1-5923d1/9813/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 8
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "hockey"
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-hockey"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/dartmouth-big-green-mens-hockey-1-tickets",
+                    "score": 0.36,
+                    "slug": "dartmouth-big-green-mens-hockey-1",
+                    "home_venue_id": 5524,
+                    "short_name": "Dartmouth Big Green Mens Hockey",
+                    "num_upcoming_events": 8,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 43.6993,
+                        "lon": -72.2829
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Dartmouth Big Green at Arizona State Sun Devils Mens Hockey",
+            "visible_until_utc": "2023-12-10T07:00:00",
+            "stats": {
+                "listing_count": 59,
+                "average_price": 147,
+                "lowest_price_good_deals": 40,
+                "lowest_price": 40,
+                "highest_price": 845,
+                "visible_listing_count": 56,
+                "dq_bucket_counts": [
+                    11,
+                    21,
+                    19,
+                    6,
+                    4,
+                    5,
+                    11,
+                    0
+                ],
+                "median_price": 104,
+                "lowest_sg_base_price": 25,
+                "lowest_sg_base_price_good_deals": 25
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1040000,
+                    "name": "hockey",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "hockey"
+                },
+                {
+                    "id": 1040200,
+                    "name": "ncaa_hockey",
+                    "parent_id": 1040000,
+                    "rank": 0,
+                    "seo_event_type": "ncaa-hockey"
+                }
+            ],
+            "url": "https://seatgeek.com/arizona-state-sun-devils-mens-hockey-1-tickets/ncaa-hockey/2023-12-09-3-30-am/6057253",
+            "score": 0.453,
+            "announce_date": "2023-06-14T00:00:00",
+            "created_at": "2023-06-14T17:52:02",
+            "date_tbd": false,
+            "title": "Dartmouth Big Green at Arizona State Sun Devils Mens Hockey",
+            "popularity": 0.769,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-06-14T17:52:02Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_basketball",
+            "id": 6193316,
+            "datetime_utc": "2023-12-09T11:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "Save Mart Center",
+                "postal_code": "93710",
+                "name": "Save Mart Center",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/save-mart-center/tickets",
+                "score": 0.71,
+                "location": {
+                    "lat": 36.8097,
+                    "lon": -119.739
+                },
+                "address": "2650 East Shaw Avenue",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 44,
+                "city": "Fresno",
+                "slug": "save-mart-center",
+                "extended_address": "Fresno, CA 93710",
+                "id": 76,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 866,
+                "capacity": 0,
+                "display_location": "Fresno, CA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Fresno State Bulldogs Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/fresno-state-bulldogs-mens-basketball-5002c2/6466/huge.jpg",
+                    "id": 6466,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/fresno-state-bulldogs-mens-basketball-5002c2/6466/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "MWC",
+                            "display_name": "Mountain West",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "mountain-west"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 23
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/fresno-state-bulldogs-mens-basketball-tickets",
+                    "score": 0.39,
+                    "slug": "fresno-state-bulldogs-mens-basketball",
+                    "home_venue_id": 76,
+                    "short_name": "Fresno State",
+                    "num_upcoming_events": 23,
+                    "colors": {
+                        "all": [
+                            "#13284C",
+                            "#C41230",
+                            "#13284C"
+                        ],
+                        "iconic": "#C41230",
+                        "primary": [
+                            "#13284C",
+                            "#C41230"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 36.8097,
+                        "lon": -119.739
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Pacific Tigers Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/pacific-tigers-mens-basketball-e470f4/6571/huge.jpg",
+                    "id": 6571,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/pacific-tigers-mens-basketball-e470f4/6571/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "WCC",
+                            "display_name": "West Coast",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "west-coast"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 20
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/pacific-tigers-mens-basketball-tickets",
+                    "score": 0.4,
+                    "slug": "pacific-tigers-mens-basketball",
+                    "home_venue_id": 4178,
+                    "short_name": "Pacific",
+                    "num_upcoming_events": 20,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 37.9767,
+                        "lon": -121.315
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Pacific at Fresno State",
+            "visible_until_utc": "2023-12-10T08:00:00",
+            "stats": {
+                "listing_count": 39,
+                "average_price": 52,
+                "lowest_price_good_deals": 19,
+                "lowest_price": 19,
+                "highest_price": 194,
+                "visible_listing_count": 30,
+                "dq_bucket_counts": [
+                    2,
+                    8,
+                    23,
+                    9,
+                    2,
+                    0,
+                    3,
+                    0
+                ],
+                "median_price": 42,
+                "lowest_sg_base_price": 9,
+                "lowest_sg_base_price_good_deals": 9
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1030000,
+                    "name": "basketball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "basketball"
+                },
+                {
+                    "id": 1030200,
+                    "name": "ncaa_basketball",
+                    "parent_id": 1030000,
+                    "rank": 0,
+                    "seo_event_type": "ncaa-basketball"
+                }
+            ],
+            "url": "https://seatgeek.com/fresno-state-bulldogs-mens-basketball-tickets/ncaa-basketball/2023-12-09-3-30-am/6193316",
+            "score": 0.308,
+            "announce_date": "2023-09-21T00:00:00",
+            "created_at": "2023-09-21T19:07:59",
+            "date_tbd": false,
+            "title": "Pacific Tigers at Fresno State Bulldogs Mens Basketball",
+            "popularity": 0.7,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "ncaa_basketball",
+            "id": 6218059,
+            "datetime_utc": "2023-12-09T11:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "Jenny Craig Pavilion",
+                "postal_code": "92110",
+                "name": "Jenny Craig Pavilion",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/jenny-craig-pavilion/tickets",
+                "score": 0.47,
+                "location": {
+                    "lat": 32.7717,
+                    "lon": -117.185
+                },
+                "address": "5998 Alcala Park",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 26,
+                "city": "San Diego",
+                "slug": "jenny-craig-pavilion",
+                "extended_address": "San Diego, CA 92110",
+                "id": 4154,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 825,
+                "capacity": 5100,
+                "display_location": "San Diego, CA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "ncaa_basketball",
+                    "name": "San Diego Toreros Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/san-diego-toreros-mens-basketball-81c458/6380/huge.jpg",
+                    "id": 6380,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/san-diego-toreros-mens-basketball-81c458/6380/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "WCC",
+                            "display_name": "West Coast",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "west-coast"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 21
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "https://www.flickr.com/photos/dirkhansen/3079237330/",
+                    "url": "https://seatgeek.com/san-diego-toreros-mens-basketball-tickets",
+                    "score": 0.39,
+                    "slug": "san-diego-toreros-mens-basketball",
+                    "home_venue_id": 4154,
+                    "short_name": "San Diego",
+                    "num_upcoming_events": 21,
+                    "colors": null,
+                    "image_license": null,
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": {
+                        "lat": 32.7717,
+                        "lon": -117.185
+                    },
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "ncaa_basketball",
+                    "name": "Arizona State Sun Devils Mens Basketball",
+                    "image": "https://seatgeek.com/images/performers-landscape/arizona-state-sun-devils-mens-basketball-741519/4076/huge.jpg",
+                    "id": 4076,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/arizona-state-sun-devils-mens-basketball-741519/4076/huge.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": null,
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": null
+                        },
+                        {
+                            "taxonomy_id": 1030200,
+                            "short_name": "Pac-12",
+                            "display_name": "Pac-12",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "pac-12"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 24
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "basketball"
+                        },
+                        {
+                            "id": 1030200,
+                            "name": "ncaa_basketball",
+                            "parent_id": 1030000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "ncaa-basketball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/arizona-state-sun-devils-mens-basketball-tickets",
+                    "score": 0.58,
+                    "slug": "arizona-state-sun-devils-mens-basketball",
+                    "home_venue_id": 5150,
+                    "short_name": "Arizona State",
+                    "num_upcoming_events": 24,
+                    "colors": {
+                        "all": [
+                            "#8C1D40",
+                            "#FFC627",
+                            "#8C1D40"
+                        ],
+                        "iconic": "#8C1D40",
+                        "primary": [
+                            "#8C1D40",
+                            "#FFC627"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": {
+                        "lat": 33.4246,
+                        "lon": -111.931
+                    },
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Arizona State at San Diego",
+            "visible_until_utc": "2023-12-10T08:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1030000,
+                    "name": "basketball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "basketball"
+                },
+                {
+                    "id": 1030200,
+                    "name": "ncaa_basketball",
+                    "parent_id": 1030000,
+                    "rank": 0,
+                    "seo_event_type": "ncaa-basketball"
+                }
+            ],
+            "url": "https://seatgeek.com/san-diego-toreros-mens-basketball-tickets/ncaa-basketball/2023-12-09-3-30-am/6218059",
+            "score": 0.357,
+            "announce_date": "2023-10-05T00:00:00",
+            "created_at": "2023-10-05T22:46:10",
+            "date_tbd": false,
+            "title": "Arizona State Sun Devils at San Diego Toreros Mens Basketball",
+            "popularity": 0.723,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "family",
+            "id": 5851036,
+            "datetime_utc": "2023-12-09T11:30:00",
+            "venue": {
+                "state": "NV",
+                "name_v2": "Le Theatre Des Arts at Paris Las Vegas",
+                "postal_code": "89109",
+                "name": "Le Theatre Des Arts at Paris Las Vegas",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/le-theatre-des-arts-at-paris-las-vegas-2/tickets",
+                "score": 0.51,
+                "location": {
+                    "lat": 36.11,
+                    "lon": -115.171
+                },
+                "address": "3655 Las Vegas Blvd South",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 389,
+                "city": "Las Vegas",
+                "slug": "le-theatre-des-arts-at-paris-las-vegas-2",
+                "extended_address": "Las Vegas, NV 89109",
+                "id": 1610,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 839,
+                "capacity": 0,
+                "display_location": "Las Vegas, NV"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "theater_family",
+                    "name": "Eiffel Tower Experience",
+                    "image": "https://seatgeek.com/images/performers-landscape/eiffel-tower-experience-ce92de/605657/huge.jpg",
+                    "id": 605657,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/eiffel-tower-experience-ce92de/605657/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 389
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "theater"
+                        },
+                        {
+                            "id": 3050000,
+                            "name": "family",
+                            "parent_id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "family"
+                        }
+                    ],
+                    "image_attribution": "https://www.flickr.com/photos/30478819@N08/33015766008/in/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF",
+                    "url": "https://seatgeek.com/eiffel-tower-experience-tickets",
+                    "score": 0.24,
+                    "slug": "eiffel-tower-experience",
+                    "home_venue_id": null,
+                    "short_name": "Eiffel Tower Experience",
+                    "num_upcoming_events": 389,
+                    "colors": null,
+                    "image_license": "https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "[This image](https://www.flickr.com/photos/30478819@N08/33015766008/in/photolist-SiuqYY-2aAJ6nb-27tFEJr-TfEqvU-5aFqe6-2fRfscU-5DcTqo-aeB1dg-bwAYdx-2bPCenq-8ARy1R-bEMH74-8AVpGL-8hqR5S-VdZ7nk-jxcedC-22scg7N-9xTeGb-JpxkhQ-aZSDGK-TeZcdy-UyCnMt-KAvtd8-Zs5p3j-dAxQMP-wWQ9yZ-SVBXhi-U6EHKs-2avypie-27tFDtv-28L2Gyd-27tFTRP-266CDAq-55FPdQ-cQMWE3-cQMWJC-23gcZ9w-eUSFKb-o7da-6iS3sK-bdJx7r-4Li5MP-aFafGG-4Li66X-7JPSpe-4faxNq-bVSDK2-bVSCu4-bVSyga-bVSzfF) is available through [Creative Commons](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich) on Flickr. Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions."
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Eiffel Tower Experience - Las Vegas",
+            "visible_until_utc": "2023-12-10T08:00:00",
+            "stats": {
+                "listing_count": 4,
+                "average_price": 56,
+                "lowest_price_good_deals": null,
+                "lowest_price": 49,
+                "highest_price": 66,
+                "visible_listing_count": 4,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 53,
+                "lowest_sg_base_price": 32,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "theater"
+                },
+                {
+                    "id": 3050000,
+                    "name": "family",
+                    "parent_id": 3000000,
+                    "rank": 0,
+                    "seo_event_type": "family"
+                }
+            ],
+            "url": "https://seatgeek.com/eiffel-tower-experience-tickets/family/2023-12-09-3-30-am/5851036",
+            "score": 0.315,
+            "announce_date": "2022-10-23T00:00:00",
+            "created_at": "2022-10-23T16:02:44",
+            "date_tbd": false,
+            "title": "Eiffel Tower Experience - Las Vegas",
+            "popularity": 0.707,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-04-18T00:50:26Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "womens_college_volleyball",
+            "id": 6299345,
+            "datetime_utc": "2023-12-09T11:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "Maples Pavilion",
+                "postal_code": "94305",
+                "name": "Maples Pavilion",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/maples-pavilion/tickets",
+                "score": 0.53,
+                "location": {
+                    "lat": 37.4296,
+                    "lon": -122.161
+                },
+                "address": "655 Campus Drive",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 24,
+                "city": "Stanford",
+                "slug": "maples-pavilion",
+                "extended_address": "Stanford, CA 94305",
+                "id": 3468,
+                "popularity": 0,
+                "access_method": {
+                    "method": "QRCODE",
+                    "created_at": "2015-12-08T21:58:18Z",
+                    "employee_only": false
+                },
+                "metro_code": 807,
+                "capacity": 7233,
+                "display_location": "Stanford, CA"
+            },
+            "datetime_tbd": true,
+            "performers": [
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "NCAA Womens Volleyball Championship",
+                    "image": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg",
+                    "id": 13005,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/ncaa-womens-volleyball-championship-cbe086/13005/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/ncaa-womens-volleyball-championship-tickets",
+                    "score": 0.6,
+                    "slug": "ncaa-womens-volleyball-championship",
+                    "home_venue_id": null,
+                    "short_name": "NCAA Womens Volleyball Championship",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "home_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Texas Longhorns Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/texas-longhorns-womens-volleyball-cfe870/287697/huge.jpg",
+                    "id": 287697,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/texas-longhorns-womens-volleyball-cfe870/287697/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "Client provided - 2023",
+                    "url": "https://seatgeek.com/texas-longhorns-womens-volleyball-tickets",
+                    "score": 0.56,
+                    "slug": "texas-longhorns-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Texas Womens VB",
+                    "num_upcoming_events": 1,
+                    "colors": {
+                        "all": [
+                            "#AF5C37",
+                            "#373A36",
+                            "#AF5C37"
+                        ],
+                        "iconic": "#AF5C37",
+                        "primary": [
+                            "#AF5C37",
+                            "#373A36"
+                        ]
+                    },
+                    "image_license": "Client provided - 2023",
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": ""
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Stanford Cardinal Womens Volleyball",
+                    "image": "https://seatgeek.com/images/performers-landscape/stanford-cardinal-womens-volleyball-3060ee/599294/huge.jpg",
+                    "id": 599294,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/stanford-cardinal-womens-volleyball-3060ee/599294/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "sport"
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "volleyball"
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "college-volleyball"
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": "womens-college-volleyball"
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/stanford-cardinal-womens-volleyball-tickets",
+                    "score": 0.45,
+                    "slug": "stanford-cardinal-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Stanford Womens VB",
+                    "num_upcoming_events": 1,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 0,
+                    "away_team": true,
+                    "location": null,
+                    "image_rights_message": ""
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "NCAA Womens Volleyball Tournament Stanford Regional - Finals (#1 Stanford vs #2 Texas)",
+            "visible_until_utc": "2023-12-10T08:00:00",
+            "stats": {
+                "listing_count": 1,
+                "average_price": 52,
+                "lowest_price_good_deals": null,
+                "lowest_price": 52,
+                "highest_price": 52,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "median_price": 52,
+                "lowest_sg_base_price": 34,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": "sport"
+                },
+                {
+                    "id": 1170000,
+                    "name": "volleyball",
+                    "parent_id": 1000000,
+                    "rank": 0,
+                    "seo_event_type": "volleyball"
+                },
+                {
+                    "id": 1170100,
+                    "name": "college_volleyball",
+                    "parent_id": 1170000,
+                    "rank": 0,
+                    "seo_event_type": "college-volleyball"
+                },
+                {
+                    "id": 1170101,
+                    "name": "womens_college_volleyball",
+                    "parent_id": 1170100,
+                    "rank": 0,
+                    "seo_event_type": "womens-college-volleyball"
+                }
+            ],
+            "url": "https://seatgeek.com/ncaa-womens-volleyball-championship-tickets/womens-college-volleyball/2023-12-09-3-30-am/6299345",
+            "score": 0.405,
+            "announce_date": "2023-12-03T00:00:00",
+            "created_at": "2023-12-03T23:28:37",
+            "date_tbd": true,
+            "title": "NCAA Womens Volleyball Tournament Stanford Regional - Finals (#1 Stanford vs #2 Texas)",
+            "popularity": 0.747,
+            "description": "",
+            "status": "normal",
+            "access_method": {
+                "method": "QRCODE",
+                "created_at": "2015-12-08T21:58:18Z",
+                "employee_only": false
+            },
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": null,
+            "is_visible_override": "VISIBLE",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "type": "concert",
+            "id": 6246347,
+            "datetime_utc": "2023-12-09T11:30:00",
+            "venue": {
+                "state": "CA",
+                "name_v2": "The Siren",
+                "postal_code": "93442",
+                "name": "The Siren",
+                "links": [],
+                "timezone": "America/Los_Angeles",
+                "url": "https://seatgeek.com/venues/the-siren-1/tickets",
+                "score": 0.26,
+                "location": {
+                    "lat": 35.3671,
+                    "lon": -120.85
+                },
+                "address": "900 Main St",
+                "country": "US",
+                "has_upcoming_events": true,
+                "num_upcoming_events": 1,
+                "city": "Morro Bay",
+                "slug": "the-siren-1",
+                "extended_address": "Morro Bay, CA 93442",
+                "id": 285634,
+                "popularity": 0,
+                "access_method": null,
+                "metro_code": 855,
+                "capacity": 0,
+                "display_location": "Morro Bay, CA"
+            },
+            "datetime_tbd": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Cayucas",
+                    "image": "https://seatgeek.com/images/performers-landscape/cayucas-153b0f/72358/huge.jpg",
+                    "id": 72358,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/cayucas-153b0f/72358/huge.jpg"
+                    },
+                    "divisions": null,
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 7
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concerts",
+                            "parent_id": null,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            },
+                            "rank": 0,
+                            "seo_event_type": ""
+                        }
+                    ],
+                    "image_attribution": "Roger Kisby / Getty Images Entertainment / Getty Images",
+                    "url": "https://seatgeek.com/cayucas-tickets",
+                    "score": 0.34,
+                    "slug": "cayucas",
+                    "home_venue_id": null,
+                    "short_name": "Cayucas",
+                    "num_upcoming_events": 7,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "primary": true,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/drake-b808d2/2351/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/drake-f6d519/2351/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/drake-159c25/2351/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/drake-6e659f/2351/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/drake-0810f9/2351/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/drake-5270ef/2351/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/drake-ad0220/2351/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/drake-e36892/2351/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/drake-7f6d9b/2351/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/drake-049f1b/2351/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/drake-7c7fa3/2351/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/drake-ea37be/2351/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/drake-1fac50/2351/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/drake-596c64/2351/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/drake-2b8ef2/2351/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/drake-43d9e5/2351/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/drake-4fa826/2351/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/drake-c7bf4b/2351/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/drake-ed28b0/2351/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/drake-490583/2351/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/drake-596c64/2351/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "primary": false,
+                            "images": {
+                                "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+                                "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+                                "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+                                "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+                                "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+                                "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+                                "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+                                "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+                                "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+                                "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+                                "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+                                "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+                                "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+                                "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                                "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+                                "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+                                "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+                                "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+                                "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+                                "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+                            },
+                            "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "popularity": 0,
+                    "location": null,
+                    "image_rights_message": "(c) Roger Kisby / Getty Images Entertainment / Getty Images"
+                }
+            ],
+            "is_open": false,
+            "links": [],
+            "datetime_local": "2023-12-09T03:30:00",
+            "time_tbd": true,
+            "short_title": "Cayucas",
+            "visible_until_utc": "2023-12-10T08:00:00",
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null,
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "median_price": null,
+                "lowest_sg_base_price": null,
+                "lowest_sg_base_price_good_deals": null
+            },
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "rank": 0,
+                    "seo_event_type": ""
+                }
+            ],
+            "url": "https://seatgeek.com/cayucas-tickets/morro-bay-california-the-siren-1-2023-12-09-3-30-am/concert/6246347",
+            "score": 0.283,
+            "announce_date": "2023-10-21T00:00:00",
+            "created_at": "2023-10-21T11:56:52",
+            "date_tbd": false,
+            "title": "Cayucas",
+            "popularity": 0.69,
+            "description": "",
+            "status": "normal",
+            "access_method": null,
+            "event_promotion": null,
+            "announcements": {},
+            "conditional": false,
+            "enddatetime_utc": null,
+            "visible_at": "2023-11-27T13:44:03Z",
+            "is_visible_override": "UNSET",
+            "tdc_pvo_id": 0,
+            "tdc_pv_id": 0,
+            "is_visible": true,
+            "performer_order": [],
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "total": 104499,
+        "took": 13,
+        "page": 1,
+        "per_page": 10,
+        "geolocation": null
+    }
+}
